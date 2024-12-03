@@ -1,0 +1,29 @@
+theory Question
+
+1. recursive function //
+2. deep copy and flatten own function for obj and arr //
+4. this concept
+5. set and map // 
+6. class concept
+7. destructuring, object .keys .values .entries //
+8. JSON methonds : JSON.strinfigy(), JSON.parse() //
+9. rest and spread  //
+10. closure // 
+11. hoisting // 
+12. curring //
+
+
+
+13. async js
+
+
+
+
+coding question
+
+
+sites
+
+w3s
+javascript.info
+mdn
