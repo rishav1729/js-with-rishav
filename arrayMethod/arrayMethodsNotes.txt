@@ -1,0 +1,8 @@
+array methods explanation using claude.ai
+
+a.  https://claude.site/artifacts/6a671ec7-59af-405e-8a77-7cf7ea575e57
+b.  https://claude.site/artifacts/8acbcd8e-b675-4f0b-950a-7951d52521c5
+
+aditya explanation:  
+
+https://github.com/theadtya/js-with-gaurav/blob/main/sync-js/arrayMethods.js
